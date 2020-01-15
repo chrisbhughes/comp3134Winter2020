@@ -1,0 +1,7 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# traceroute amazon.ca
+traceroute to amazon.ca (52.94.225.242), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.4.6 (10.78.4.6)  1.292 ms 10.78.4.2 (10.78.4.2)  7.275 ms 10.78.4.0 (10.78.4.0)  11.529 ms
+ 3  138.197.249.78 (138.197.249.78)  1.327 ms  1.273 ms  1.294 ms
+ 4  amazon-b.ip4.torontointernetxchange.net (206.108.35.37)  1.614 ms  1.617 ms 138.197.249.71 (138.197.249.71)  1.497 ms
+ 5  amazon-a.ip4.torontointernetxchange.net (206.108.35.36)  1.483 ms  1.522 ms amazon-b.ip4.torontointernetxchange.net (206.108.35.37)  1.408 ms

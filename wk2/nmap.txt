@@ -1,0 +1,98 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap cnn.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 15:36 UTC
+Nmap scan report for cnn.com (151.101.65.67)
+Host is up (0.00076s latency).
+Other addresses for cnn.com (not scanned): 151.101.1.67 151.101.129.67 151.101.193.67 2a04:4e42::323 2a04:4e42:400::323 2a04:4e42:200::323 2a04:4e42:600::323
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 8.67 seconds
+
+
+------------------------------
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap amazon.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 15:37 UTC
+Nmap scan report for amazon.ca (54.239.18.172)
+Host is up (0.034s latency).
+Other addresses for amazon.ca (not scanned): 54.239.19.238 52.94.225.242
+Not shown: 998 closed ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.97 seconds
+
+
+----------------------------------------------
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap ebay.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 15:38 UTC
+Nmap scan report for ebay.com (66.135.195.175)
+Host is up (0.056s latency).
+Other addresses for ebay.com (not scanned): 66.135.196.249
+rDNS record for 66.135.195.175: ru.ebay.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 6.25 seconds
+
+---------------------------------------------------------------
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap coke.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 15:39 UTC
+Nmap scan report for coke.com (52.14.144.171)
+Host is up (0.019s latency).
+rDNS record for 52.14.144.171: ec2-52-14-144-171.us-east-2.compute.amazonaws.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 17.65 seconds
+-----------------------------------------------------------------------
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 80 coke.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 15:40 UTC
+Nmap scan report for coke.com (52.14.144.171)
+Host is up (0.019s latency).
+rDNS record for 52.14.144.171: ec2-52-14-144-171.us-east-2.compute.amazonaws.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.73 seconds
+
+-------------------------------------------------------------
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 80-500 coke.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 15:41 UTC
+Nmap scan report for coke.com (52.14.144.171)
+Host is up (0.019s latency).
+rDNS record for 52.14.144.171: ec2-52-14-144-171.us-east-2.compute.amazonaws.com
+Not shown: 419 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 5.92 seconds
+-------------------------------------------------------------------------
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F coke.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 15:42 UTC
+Nmap scan report for coke.com (52.14.144.171)
+Host is up (0.019s latency).
+rDNS record for 52.14.144.171: ec2-52-14-144-171.us-east-2.compute.amazonaws.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.51 seconds
