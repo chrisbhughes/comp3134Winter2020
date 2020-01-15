@@ -1,0 +1,305 @@
+Domain Name: amazon.ca
+Registry Domain ID: D237-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2014-03-12T17:47:11Z
+Creation Date: 2000-09-19T18:44:39Z
+Registry Expiry Date: 2019-07-16T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 16390820-CIRA
+Registrant Name: Amazon Technologies, Inc. TMA499121
+Registrant Organization:
+Registrant Street: PO Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 91423
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext:
+Registrant Fax: +1.2062667010
+Registrant Fax Ext:
+Registrant Email: hostmaster@amazon.com
+Registry Admin ID: 16310044-CIRA
+Admin Name: David C Arnett
+Admin Organization: Amazon Technologies, Inc. TMA499121
+Admin Street: PO Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 91423
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext:
+Admin Fax: +1.2062667010
+Admin Fax Ext:
+Admin Email: hostmaster@amazon.com
+Registry Tech ID: 16310044-CIRA
+Tech Name: David C Arnett
+Tech Organization: Amazon Technologies, Inc. TMA499121
+Tech Street: PO Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 91423
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext:
+Tech Fax: +1.2062667010
+Tech Fax Ext:
+Tech Email: hostmaster@amazon.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: pdns1.ultradns.net
+Name Server: pdns5.ultradns.info
+Name Server: pdns3.ultradns.org
+Name Server: pdns4.ultradns.org
+Name Server: ns1.p31.dynect.net
+Name Server: ns2.p31.dynect.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2019-02-06T21:30:08Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2019 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+-----------------------------------------------------------------------------
+Domain Name: EBAY.COM
+Registry Domain ID: 1959284_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-11-06T21:00:04Z
+Creation Date: 1995-08-04T04:00:00Z
+Registry Expiry Date: 2020-08-03T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: DNS1.P06.NSONE.NET
+Name Server: DNS2.P06.NSONE.NET
+Name Server: DNS3.P06.NSONE.NET
+Name Server: DNS4.P06.NSONE.NET
+Name Server: NS01.EBAYDNS.COM
+Name Server: NS02.EBAYDNS.COM
+Name Server: NS03.EBAYDNS.COM
+Name Server: NS04.EBAYDNS.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-01-15T15:13:17Z <<<
+---------------------------------------------------------------------------------------
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2019-06-04T11:48:21Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2020-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: ariem@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: ariem@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: dgrunberg@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.georgebrown.ca
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2019-06-21T23:00:19Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2019 Canadian Internet Registration Authority, (http://www.cira.ca/)
+----------------------------------------------------------------------------------
+Domain Name: canada.ca
+Registry Domain ID: D124992-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2018-09-07T15:20:05Z
+Creation Date: 2002-11-25T20:16:47Z
+Registry Expiry Date: 2019-10-16T04:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: ok https://icann.org/epp#OK
+Registry Registrant ID: 43332736-CIRA
+Registrant Name: Shared Services Canada
+Registrant Organization:
+Registrant Street: 21 Fitzgerald Road
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K1A0L5
+Registrant Country: CA
+Registrant Phone: +1.6132406876
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: jeff.bossert@ssc-spc.gc.ca
+Registry Admin ID: 38376096-CIRA
+Admin Name: Geoff Worthing
+Admin Organization: Shared Services Canada
+Admin Street: 21 Fitzgerald Road
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K1A0L5
+Admin Country: CA
+Admin Phone: +1.6136978032
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Geoffrey.Worthing@ssc-spc.gc.ca
+Registry Tech ID: 38376096-CIRA
+Tech Name: Geoff Worthing
+Tech Organization: Shared Services Canada
+Tech Street: 21 Fitzgerald Road
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K1A0L5
+Tech Country: CA
+Tech Phone: +1.6136978032
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Geoffrey.Worthing@ssc-spc.gc.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns1.nrc.ca
+Name Server: dns2.nrc.ca
+Name Server: gocns-pdp.gc.ca
+Name Server: gocns-kedc.gc.ca
+Name Server: xns-apdc.ssc-spc.gc.ca
+Name Server: xns-kedc-1.ssc-spc.gc.ca
+Name Server: xns-kedc.ssc-spc.gc.ca
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2019-02-07T06:10:03Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2019 Canadian Internet Registration Authority, (http://www.cira.ca/)
+--------------------------------------------------------------------------
+Domain Name: CNN.COM
+Registry Domain ID: 3269879_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://www.cscglobal.com/global/web/csc/digital-brand-services.html
+Updated Date: 2018-04-10T16:43:38Z
+Creation Date: 1993-09-22T04:00:00Z
+Registry Expiry Date: 2026-09-21T04:00:00Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: 8887802723
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS-1086.AWSDNS-07.ORG
+Name Server: NS-1630.AWSDNS-11.CO.UK
+Name Server: NS-47.AWSDNS-05.COM
+Name Server: NS-576.AWSDNS-08.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-01-14T05:02:51Z <<<
+
