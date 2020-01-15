@@ -1,0 +1,417 @@
+Checking Domain Name
+
+Domain Name: canadapost.ca
+
+Top Level Domain: CA (Canada)
+
+DNS Lookup
+
+IP Address: 23.199.201.241
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+Reverse DNS: a23-199-201-241.deploy.static.akamaitechnologies.com
+
+Domain Check
+
+Domain Name: canadapost.ca
+
+Top Level Domain: CA (Canada)
+
+Domain Name: canadapost.ca
+Registry Domain ID: D759973-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2019-08-24T03:26:22Z
+Creation Date: 2000-10-01T14:50:58Z
+Registry Expiry Date: 2020-02-21T05:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 75775673-CIRA
+Registrant Name: Innovapost Inc
+Registrant Organization:
+Registrant Street: 365 March Road
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K2K3N5
+Registrant Country: CA
+Registrant Phone: +1.6132706416
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: tss@innovapost.com
+Registry Admin ID: 75776561-CIRA
+Admin Name: Ali Rizvi
+Admin Organization: Innovapost Inc
+Admin Street: 365 March Road
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K2K3N5
+Admin Country: CA
+Admin Phone: +1.6132706416
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: tss@innovapost.com
+Registry Tech ID: 75776561-CIRA
+Tech Name: Ali Rizvi
+Tech Organization: Innovapost Inc
+Tech Street: 365 March Road
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K2K3N5
+Tech Country: CA
+Tech Phone: +1.6132706416
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: tss@innovapost.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a1-226.akam.net
+Name Server: a13-67.akam.net
+DNSSEC: unsigned
+
+
+
+
+Domain Name: canadapost.ca
+Registry Domain ID: D759973-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2019-08-24T03:26:22Z
+Creation Date: 2000-10-01T14:50:58Z
+Registry Expiry Date: 2020-02-21T05:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 75775673-CIRA
+Registrant Name: Innovapost Inc
+Registrant Organization:
+Registrant Street: 365 March Road
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K2K3N5
+Registrant Country: CA
+Registrant Phone: +1.6132706416
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: tss@innovapost.com
+Registry Admin ID: 75776561-CIRA
+Admin Name: Ali Rizvi
+Admin Organization: Innovapost Inc
+Admin Street: 365 March Road
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K2K3N5
+Admin Country: CA
+Admin Phone: +1.6132706416
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: tss@innovapost.com
+Registry Tech ID: 75776561-CIRA
+Tech Name: Ali Rizvi
+Tech Organization: Innovapost Inc
+Tech Street: 365 March Road
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K2K3N5
+Tech Country: CA
+Tech Phone: +1.6132706416
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: tss@innovapost.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a1-226.akam.net
+Name Server: a13-67.akam.net
+DNSSEC: unsigned
+
+------------------------------------------------------------------------------------
+  Checking Domain Name
+
+Domain Name: dell.ca
+
+Top Level Domain: CA (Canada)
+
+DNS Lookup
+
+IP Address: 143.166.224.244
+
+Geolocation: US (United States), TX, Texas, 78729 Austin - Google Maps
+
+Reverse DNS: enterprise.dell.com
+
+Domain Check
+
+Domain Name: dell.ca
+
+Top Level Domain: CA (Canada)
+
+Domain Name: dell.ca
+Registry Domain ID: D5881-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.sndomains.ca
+Updated Date: 2019-06-01T01:38:13Z
+Creation Date: 2000-10-11T13:37:59Z
+Registry Expiry Date: 2020-06-02T04:00:00Z
+Registrar: SN Domains Inc
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: R68900-CIRA
+Registrant Name: Dell Computer Corporation
+Registrant Organization:
+Registrant Street: 155 Gordon Baker Road North Suite 501
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M2H3N5
+Registrant Country: CA
+Registrant Phone: +1.4167582489
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: dnsadmin@dell.com
+Registry Admin ID: C1653427-CIRA
+Admin Name: Safenames Ltd
+Admin Organization: International Domain Manager
+Admin Street: Safenames House, Sunrise Parkway, Milton Keynes MLO
+Admin City: Milton Keynes
+Admin State/Province:
+Admin Postal Code: MK14 6LS
+Admin Country: GB
+Admin Phone: +44.1908200022
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Tec@safenames.net
+Registry Tech ID: C1653427-CIRA
+Tech Name: Safenames Ltd
+Tech Organization: International Domain Manager
+Tech Street: Safenames House, Sunrise Parkway, Milton Keynes MLO
+Tech City: Milton Keynes
+Tech State/Province:
+Tech Postal Code: MK14 6LS
+Tech Country: GB
+Tech Phone: +44.1908200022
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Tec@safenames.net
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.us.dell.com
+Name Server: ns2.us.dell.com
+Name Server: ns3.us.dell.com
+Name Server: ns4.us.dell.com
+Name Server: ns5.us.dell.com
+Name Server: ns6.us.dell.com
+DNSSEC: unsigned
+
+
+
+
+Domain Name: dell.ca
+Registry Domain ID: D5881-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.sndomains.ca
+Updated Date: 2019-06-01T01:38:13Z
+Creation Date: 2000-10-11T13:37:59Z
+Registry Expiry Date: 2020-06-02T04:00:00Z
+Registrar: SN Domains Inc
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: R68900-CIRA
+Registrant Name: Dell Computer Corporation
+Registrant Organization:
+Registrant Street: 155 Gordon Baker Road North Suite 501
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M2H3N5
+Registrant Country: CA
+Registrant Phone: +1.4167582489
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: dnsadmin@dell.com
+Registry Admin ID: C1653427-CIRA
+Admin Name: Safenames Ltd
+Admin Organization: International Domain Manager
+Admin Street: Safenames House, Sunrise Parkway, Milton Keynes MLO
+Admin City: Milton Keynes
+Admin State/Province:
+Admin Postal Code: MK14 6LS
+Admin Country: GB
+Admin Phone: +44.1908200022
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Tec@safenames.net
+Registry Tech ID: C1653427-CIRA
+Tech Name: Safenames Ltd
+Tech Organization: International Domain Manager
+Tech Street: Safenames House, Sunrise Parkway, Milton Keynes MLO
+Tech City: Milton Keynes
+Tech State/Province:
+Tech Postal Code: MK14 6LS
+Tech Country: GB
+Tech Phone: +44.1908200022
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Tec@safenames.net
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.us.dell.com
+Name Server: ns2.us.dell.com
+Name Server: ns3.us.dell.com
+Name Server: ns4.us.dell.com
+Name Server: ns5.us.dell.com
+Name Server: ns6.us.dell.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-01-15T15:17:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2019 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+----------------------------------------------------------------------------
+
+Checking Domain Name
+
+Domain Name: coke.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 52.14.144.171
+
+Geolocation: US (United States), OH, Ohio, 43215 Columbus - Google Maps
+
+Reverse DNS: ec2-52-14-144-171.us-east-2.compute.amazonaws.com
+
+Domain Check
+
+Domain Name: coke.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: COKE.COM
+Registry Domain ID: 654356_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-01-31T05:50:27Z
+Creation Date: 1997-07-07T04:00:00Z
+Registry Expiry Date: 2023-07-06T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS2.KO.COM
+Name Server: NS3.KO.COM
+Name Server: NS4.KO.COM
+DNSSEC: unsigned
+------------------------------------------------------------------------
+
+
+IP Address Check
+
+IP-Address from DNS Host Lookup: 52.14.144.171
+
+Geolocation: US (United States), OH, Ohio, 43215 Columbus - Google Maps
+
+-----------------------------------------------------------------------------------
+fox.com
+Checking Domain Name
+
+Domain Name: fox.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 23.35.72.107
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+
+----
+Dell.ca
+
+IP Address Check
+
+IP-Address from DNS Host Lookup: 23.35.72.107
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+-----------------------------------------
