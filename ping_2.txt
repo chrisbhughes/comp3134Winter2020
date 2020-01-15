@@ -1,0 +1,25 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# ping 159.203.62.114
+PING 159.203.62.114 (159.203.62.114) 56(84) bytes of data.
+64 bytes from 159.203.62.114: icmp_seq=1 ttl=64 time=0.044 ms
+64 bytes from 159.203.62.114: icmp_seq=2 ttl=64 time=0.051 ms
+64 bytes from 159.203.62.114: icmp_seq=3 ttl=64 time=0.078 ms
+64 bytes from 159.203.62.114: icmp_seq=4 ttl=64 time=0.096 ms
+64 bytes from 159.203.62.114: icmp_seq=5 ttl=64 time=0.081 ms
+64 bytes from 159.203.62.114: icmp_seq=6 ttl=64 time=0.092 ms
+64 bytes from 159.203.62.114: icmp_seq=7 ttl=64 time=0.078 ms
+64 bytes from 159.203.62.114: icmp_seq=8 ttl=64 time=0.126 ms
+64 bytes from 159.203.62.114: icmp_seq=9 ttl=64 time=0.075 ms
+64 bytes from 159.203.62.114: icmp_seq=10 ttl=64 time=0.150 ms
+64 bytes from 159.203.62.114: icmp_seq=11 ttl=64 time=0.082 ms
+64 bytes from 159.203.62.114: icmp_seq=12 ttl=64 time=0.078 ms
+64 bytes from 159.203.62.114: icmp_seq=13 ttl=64 time=0.076 ms
+64 bytes from 159.203.62.114: icmp_seq=14 ttl=64 time=0.101 ms
+64 bytes from 159.203.62.114: icmp_seq=15 ttl=64 time=0.089 ms
+64 bytes from 159.203.62.114: icmp_seq=16 ttl=64 time=0.083 ms
+64 bytes from 159.203.62.114: icmp_seq=17 ttl=64 time=0.077 ms
+64 bytes from 159.203.62.114: icmp_seq=18 ttl=64 time=0.082 ms
+64 bytes from 159.203.62.114: icmp_seq=19 ttl=64 time=0.063 ms
+^C
+--- 159.203.62.114 ping statistics ---
+19 packets transmitted, 19 received, 0% packet loss, time 18430ms
+rtt min/avg/max/mdev = 0.044/0.084/0.150/0.024 ms
