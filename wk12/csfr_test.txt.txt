@@ -1,0 +1,3 @@
+csfr_form.ph redirects the user to csfr_action.php unsuccessfully authorized
+because the session/confirmation variables don't match.
+csfr.html redirects to csfr.php successfully. 
